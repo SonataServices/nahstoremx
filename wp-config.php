@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'natnhomx');
+define('DB_NAME', '');
 
 /** MySQL database username */
-define('DB_USER', 'naturalnhmx');
+define('DB_USER', '');
 
 /** MySQL database password */
-define('DB_PASSWORD', '976Aimn@a07AAm9333a');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'M&gvl9o(jMT<_A<rr[-;)&75R<q}3dQ#0BZ1jFSJ6^K2FJ[;@F2`KRUpxgq~[JmX');
-define('SECURE_AUTH_KEY',  'RU&x0 aEeLoB7(@>3u#3kG7C&71puTEXQj>PKIc,,<.nC1=;`#MW9sh9t[9*+!:L');
-define('LOGGED_IN_KEY',    '}%a=BZayjK/op>VISG7?]#wQ2xcLba0SW/~5=1rn;v8WdQILd2&H<63 _h;9| ul');
-define('NONCE_KEY',        'vWf6ZfNQiN:rSC*OE7E5SBrpHC/+ey]vvJj^~f6RaX;C#(tRC7#f(E8o>`<@Z{Ru');
-define('AUTH_SALT',        'eFnlr Owj02A`l^&,&vD6*<N-}4Ns3xx3O^i*%3d}@F$+u1Q4X TP?IHl&@uqjuV');
-define('SECURE_AUTH_SALT', 'YaL8x61.0,`cH[k?@}d-ca?W%*CX[nZ8{spAXxozq1%gN;aKEh._<4.hu2nBJKxl');
-define('LOGGED_IN_SALT',   'hwM*Ybe}9@P?c]%)Rq1xnQoZ}$Qv=Oj+=#;QcR;Ik{R@y&Fa@$8&P2;wxU1$/[hr');
-define('NONCE_SALT',       'BQ?.Q]Gq,<dMjgRGI@?FZ7lbrc85VNq5| y3Px:Z2]oR_hj?!X=];?aX9fG^Z(0l');
+define('AUTH_KEY',         '6dT`6H2aLWq4Pq?j|NeH-k|cWsl~[,@pqIX}gvn6}|z$/ehh_7p5Rq.$40f+9kT-');
+define('SECURE_AUTH_KEY',  '{JcvkJQj-RAvUyI_1|`8hh[JM&$,yOY-{g6_9>D?w>%W0DMkP&Iq#7Ub+1jvX%Q%');
+define('LOGGED_IN_KEY',    'p:1QEI&*-,(x|)7n_oPZIei/#W; )({f#&Un-PzOkluhQCcZ|4EA/l!eeD_l*UmF');
+define('NONCE_KEY',        'N!=K815$;6n^Lh1[7Q-9g1_i[pnl+t#f9-OO?3:ld4++,1PqSE@tINON`bw*s@t%');
+define('AUTH_SALT',        '_1X:Ob^kz~E|Pz/cv{]C2r{-.1(~9N>jvS--<y7al04g^/=Y^C/5@|ePrb=/jhif');
+define('SECURE_AUTH_SALT', 'Pi3)gZBN }f6q:S&E=W2H;c%C:H;9*c9j#?j)nHifxQ::+(Y^67h#3|-$/5mztQC');
+define('LOGGED_IN_SALT',   'cBF~+1J<Y|-xS!,y^;69y+(2g[%.p;<J:-xl|3^g)#iiO<F7@[K),9+^iP&]R}+f');
+define('NONCE_SALT',       'mHVVgi{s`{@<pf|Jf|$f]>]75Z>AB)HUF41QULU#oG5k)=UNV#-|JYh05)-+~W,P');
 
 /**#@-*/
 
